@@ -14,3 +14,9 @@ Materials for DASC521/ENGR421: Introduction to Machine Learning course
     - [hw02.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw02/hw02.py)
     - [hw02.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw02/hw02.ipynb)
   - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw02/hw02.pdf)
+ 3. [Homework 03: Discrimination by Regression](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/tree/main/hw03)
+  - [Description](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw03/hw03_description.pdf)
+  - Code:
+    - [hw03.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw03/hw03.py)
+    - [hw03.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw03/hw03.ipynb)
+  - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw03/hw03.pdf)
