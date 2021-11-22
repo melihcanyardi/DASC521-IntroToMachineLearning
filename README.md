@@ -20,3 +20,10 @@ Materials for DASC521/ENGR421: Introduction to Machine Learning course
     - [hw03.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw03/hw03.py)
     - [hw03.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw03/hw03.ipynb)
   - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw03/hw03.pdf)
+4. [Homework 04: Nonparametric Regression](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/tree/main/hw04)
+  - [Description](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04_description.pdf)
+  - Code:
+    - [hw04.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04.py)
+    - [hw04.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04.ipynb)
+  - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04.pdf)
+  - [Dataset](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04_data_set.csv)
