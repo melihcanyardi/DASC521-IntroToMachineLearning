@@ -26,4 +26,5 @@ Materials for DASC521/ENGR421: Introduction to Machine Learning course
     - [hw04.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04.py)
     - [hw04.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04.ipynb)
   - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04.pdf)
-  - [Dataset](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04_data_set.csv)
+  - [Data Set](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04_data_set.csv)
+  - [Cheat Sheet](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw04/hw04_cheat_sheet.pdf)
