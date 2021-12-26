@@ -31,12 +31,21 @@ Materials for DASC521/ENGR421: Introduction to Machine Learning course
 5. [Homework 05: Decision Tree Regression](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/tree/main/hw05)
   - [Description](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw05/hw05_description.pdf)
   - [Data Set](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw05/hw05_data_set.csv)
-7. [Homework 06: One-Versus-All Support Vector Classification](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/tree/main/hw06)
+6. [Homework 06: One-Versus-All Support Vector Classification](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/tree/main/hw06)
   - [Description](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw06/hw06_description.pdf)
   - Code:
     - [hw06.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw06/hw06.py)
     - [hw06.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw06/hw06.ipynb)
   - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw06/hw06.pdf)
-  - Data Set
+  - Data Set:
     - [hw06_images.csv](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw06/hw06_images.csv)
     - [hw06_labels.csv](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw06/hw06_labels.csv)
+7. [Homework 07: Expectation-Maximization Clustering](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/tree/main/hw07)
+  - [Description](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07_description.pdf)
+  - Code:
+    - [hw07.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07.py)
+    - [hw07.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07.ipynb)
+  - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07.pdf)
+  - Data Set:
+    - [hw07_data_set.csv](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07_data_set.csv)
+    - [hw07_initial_centroids.csv](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07_initial_centroids.csv)
