@@ -49,3 +49,10 @@ Materials for DASC521/ENGR421: Introduction to Machine Learning course
   - Data Set:
     - [hw07_data_set.csv](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07_data_set.csv)
     - [hw07_initial_centroids.csv](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw07/hw07_initial_centroids.csv)
+8. [Homework 08: Spectral Clustering](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/tree/main/hw08)
+  - [Description](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw08/hw08_description.pdf)
+  - Code:
+    - [hw08.py](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw08/hw08.py)
+    - [hw08.ipynb](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw08/hw08.ipynb)
+  - [Report](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw08/hw08.pdf)
+  - [Data Set](https://github.com/melihcanyardi/DASC521-IntroToMachineLearning/blob/main/hw08/hw08_data_set.csv)
